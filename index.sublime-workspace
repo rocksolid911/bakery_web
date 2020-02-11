@@ -4,16 +4,52 @@
 		"selected_items":
 		[
 			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"wi",
+				"border-width\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
 				"al",
 				"alt\tAttr"
 			],
 			[
 				"s",
 				"strong\tTag"
-			],
-			[
-				"h",
-				"h1\tTag"
 			],
 			[
 				"me",
