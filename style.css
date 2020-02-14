@@ -1,0 +1,82 @@
+/*h1{
+	text-align:center;
+	 background-image: linear-gradient(to right, rgba(128,255,255,0), rgba(128,255,255,1)); width:400px; height:30px/* Standard syntax (must be last) 
+}*/
+
+
+h2{
+	background-image: linear-gradient(to left, rgba(0,255,191,0),rgba(0,255,191,1));width:400px; height: 30px
+	font:cursive;
+}
+th{
+	background-image: linear-gradient(to bottom,rgba(38,38,38,0),rgba(38,38,38,1));
+	color: 330;
+}
+tr{
+	background-image: linear-gradient(to top,rgba(242,242,242,0),rgba(242,242,242,1));
+}
+tr:hover{
+	background-color:#99bbff;
+}
+
+body{
+	/*background-color: rgb(102, 255, 194);*/
+	font-family: Arial;
+	padding: 10px;
+	background-image:url(/Users/rocksolid/Documents/bakery_website/pizza_pic/s2.jpeg);
+}
+/*p{
+	background-image: linear-gradient(to top,rgba(102, 179, 255,0),rgba(102, 179, 255,1));
+}*/
+.header {
+  background-image:linear-gradient(to top,rgb(102, 0, 51,0),rgb(102,0,51,1));
+  padding: 30px;
+  text-align: center;
+}
+.topnav {
+  overflow: hidden;
+  background-image:url(/Users/rocksolid/Documents/bakery_website/pizza_pic/s2.jpeg);
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: rgb(255, 179, 255);
+  color: black;
+}
+.leftcoloumn{
+	float:left;
+	width:60%;
+}
+.rightcoloumn{
+	float:left;
+	width:40%;
+	
+}
+.card {
+  background-image:url(/Users/rocksolid/Documents/bakery_website/pizza_pic/s2.jpeg);
+  padding: 20px;
+  margin-top: 20px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
