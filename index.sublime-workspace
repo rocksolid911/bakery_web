@@ -4,8 +4,84 @@
 		"selected_items":
 		[
 			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"i",
+				"initial\ttext-decoration"
+			],
+			[
+				"text-c",
+				"text-decoration\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tbackground"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
 				"h",
-				"h3\tTag"
+				"header"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"left",
+				"leftcoloumn"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"A1_bra",
+				"A1_Bread"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"A4_b",
+				"A4_Burger"
+			],
+			[
+				"A1_b",
+				"A1_Burger"
 			],
 			[
 				"fi",
@@ -95,8 +171,14 @@
 	},
 	"file_history":
 	[
-		"/Users/rocksolid/Documents/mywbpage/link.html",
 		"/Users/rocksolid/Documents/mywbpage/index.html",
+		"/Users/rocksolid/Documents/bakery_website/about_us.html",
+		"/Users/rocksolid/Documents/bakery_website/biscuits.html",
+		"/Users/rocksolid/Documents/bakery_website/bread.html",
+		"/Users/rocksolid/Documents/bakery_website/burger.html",
+		"/Users/rocksolid/Documents/mywbpage/link.html",
+		"/Users/rocksolid/Documents/bakery_website/pizza.html",
+		"/Users/rocksolid/Documents/bakery_website/index.html",
 		"/Users/rocksolid/Documents/untitled.html",
 		"/Users/rocksolid/Documents/link.html",
 		"/Users/rocksolid/Documents/index.html",
