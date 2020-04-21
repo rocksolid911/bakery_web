@@ -20,14 +20,16 @@ th{
 	color: 330;
   background-repeat: no-repeat;
   background-size: cover;
+  float: left;
 }
 tr{
 	background-image: linear-gradient(to top,rgba(242,242,242,0),rgba(242,242,242,1));
   background-repeat: no-repeat;
   background-size: cover;
+  float: left;
 }
 tr:hover{
-	background-color:#99bbff;
+	background-color:#ff99e0;
 }
 
 ul{
@@ -59,7 +61,6 @@ body{
  }
  */
  background: rgb(92, 91, 88);
- font-color: white;
 }
 
 /* Style the topnav links */
@@ -91,7 +92,7 @@ body{
 .card {
   background-image:url(/Users/rocksolid/Documents/bakery_website/pizza_pic/s2.jpeg);
   padding: 40px;
-  shape-margin: : 20px;
+  shape-margin: 20px: 20px;
   background-repeat: no-repeat;
   background-size: cover;
 
